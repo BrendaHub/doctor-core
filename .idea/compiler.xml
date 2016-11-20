@@ -29,7 +29,7 @@
         <module name="core-remote" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
+    <bytecodeTargetLevel target="1.8">
       <module name="binggou-core" target="1.8" />
       <module name="core-admin" target="1.8" />
       <module name="core-business" target="1.8" />
